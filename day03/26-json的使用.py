@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 26-json的使用.py
 @time: 2019/1/23 21:42
 @desc:

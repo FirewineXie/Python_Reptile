@@ -3,7 +3,6 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
 @file: 02-Request的使用.py
 @time: 2019/1/18 21:08
 @desc:

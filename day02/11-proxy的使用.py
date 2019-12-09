@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 11-proxy的使用.py
 @time: 2019/1/20 14:27
 @desc:

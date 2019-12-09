@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 32-selenium的使用.py
 @time: 2019/1/24 10:11
 @desc:

@@ -4,7 +4,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: bigin.py
 @time: 2019/1/18 20:28
 @desc:

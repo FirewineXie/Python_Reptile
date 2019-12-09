@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 18-requests的使用3.py
 @time: 2019/1/21 1:43
 @desc:

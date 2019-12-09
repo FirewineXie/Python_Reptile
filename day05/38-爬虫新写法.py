@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 38-爬虫新写法.py
 @time: 2019/1/24 15:41
 @desc:

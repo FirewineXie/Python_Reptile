@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 22-糗事百科.py
 @time: 2019/1/22 23:01
 @desc:

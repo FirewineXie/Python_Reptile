@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 09-https请求.py
 @time: 2019/1/20 14:06
 @desc:

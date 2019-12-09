@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 21-re的使用.py
 @time: 2019/1/22 21:22
 @desc:

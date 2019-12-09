@@ -3,7 +3,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 06-贴吧案例.py
 @time: 2019/1/19 20:30
 @desc:

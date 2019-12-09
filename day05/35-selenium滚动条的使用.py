@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 35-selenium滚动条的使用.py
 @time: 2019/1/24 15:03
 @desc:

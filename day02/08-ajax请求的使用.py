@@ -2,7 +2,6 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
 @file: 08-ajax请求的使用.py
 @time: 2019/1/19 21:15
 @desc:

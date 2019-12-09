@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 34-虎牙直播练习.py
 @time: 2019/1/24 14:39
 @desc:

@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 16-requests的使用.py
 @time: 2019/1/21 1:31
 @desc:

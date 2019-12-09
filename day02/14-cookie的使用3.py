@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 14-cookie的使用3.py
 @time: 2019/1/20 15:03
 @desc:

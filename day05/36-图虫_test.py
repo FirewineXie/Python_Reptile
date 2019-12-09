@@ -2,7 +2,7 @@
 '''
 Created by IntelliJ PyCharm
 @author: Firewine
-@contact: 1451661318@qq.com
+
 @file: 36-图虫_test.py
 @time: 2019/1/24 15:13
 @desc:
